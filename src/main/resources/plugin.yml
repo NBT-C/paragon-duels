@@ -1,0 +1,8 @@
+name: paragon-duels
+version: '1.0-SNAPSHOT'
+main: me.nbtc.paragonduels.Duels
+api-version: '1.20'
+commands:
+  adminduel:
+  duel:
+  duelaccept:
